@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen AD</string>
+    <string name="btListar">Listar</string>
+    <string name="btBorrar">Borrar</string>
+    <string name="etNombre">Introduzca el nombre</string>
+    <string name="etApellidos">Introduzca los apellidos</string>
+    <string name="etTelef">Introduzca el teléfono</string>
+    <string name="etFechNac">Introduzca la fecha de nacimiento</string>
+    <string name="etLocalidad">Introduzca la localidad</string>
+    <string name="etCalle">Introduzca la calle</string>
+    <string name="etNumero">Introduzca el número</string>
+    <string name="btEditar">Editar</string>
+    <string name="btAñadir">Añadir</string>
+</resources>
